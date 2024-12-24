@@ -1,0 +1,56 @@
+#main {
+    color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    text-underline: below;
+}
+
+.spara {
+    color: rgb(51, 8, 75);
+    font-family:"Arhama" };
+}
+
+#second .spara {
+
+    color: brown;
+}
+
+h1 {
+    color: cornflowerblue;
+}
+
+#third {
+    color: maroon;
+    background-color: rgba(122, 12, 12, 0.3);
+}
+
+.ttpara {
+    color: rgb(74, 36, 8);
+
+}
+.secpara{
+    color:rgb(14, 5, 11);
+}
+
+.p1 {
+    color: black;
+
+}
+
+.p1 {
+    font-family: "Playwrite DE VA Guides", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.tpara {
+    font-family: "Arhama";
+}
+
+@font-face {
+    font-family: "Arhama";
+    src: url(PlaywriteDEVAGuides-Regular.ttf);
+}
+
+* {
+    background-color: rgb(174, 73, 107);
+}
